@@ -21,6 +21,17 @@ m2 = df["Description"].str.contains(text_search)
 m3 = df["Keywords"].str.contains(text_search)
 df_search = df[m1 | m2 | m3]
 
-# Show the results, if you have a text_search
+# Show the results, as cards, if you have a text_search
+N_cards_per_row = 3
 if text_search:
-    st.write(df_search)
+    for n_row, row in df_search.reset_index().iterrows():
+        i = n_row%N_cards_per_row
+        if i==0:
+            st.write("---")
+            cols = st.columns(N_cards_per_row, gap="large")
+        # draw the card
+        with cols[n_row%N_cards_per_row]:
+            st.caption(f"{row['Collection'].strip()} - {row['Type'].strip()} ")
+            st.markdown(f"**{row['Title'].strip()}**")
+            st.markdown(f"*{row['Description'].strip()}*")
+            st.markdown(f"**{row['Link']}**")
