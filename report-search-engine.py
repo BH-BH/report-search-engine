@@ -13,13 +13,14 @@ url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sh
 df = pd.read_csv(url, dtype=str).fillna("")
 
 # Use a text_input to get the keywords to filter the dataframe
-text_search = st.text_input("Search reports by title, description or keywords", value="")
+text_search = st.text_input("Search reports by collection, title, description or keywords. To see all reports, search for all data", value="")
 
 # Filter the dataframe using masks
 m1 = df["Title"].str.contains(text_search)
 m2 = df["Description"].str.contains(text_search)
-m3 = df["Keywords"].str.contains(text_search)
-df_search = df[m1 | m2 | m3]
+m3 = df["Collection"].str.contains(text_search)
+m4 = df["Keywords"].str.contains(text_search)
+df_search = df[m1 | m2 | m3 | m4]
 
 # Show the results, as cards, if you have a text_search
 N_cards_per_row = 3
