@@ -1,0 +1,1918 @@
+{'_links': {'self': {'href': '/api/cohire/collections?filter=all'
+        }
+    }, '_embedded': {'spaces': [
+            {'token': '0cd314493597', 'id': 288718, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/0cd314493597'
+                    }, 'detail': {'href': '/api/cohire/collections/0cd314493597/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/0cd314493597/reports'
+                    }, 'creator': {'href': '/api/kv_pieri'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/0cd314493597/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'adef3a43b13a', 'id': 5957517, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/adef3a43b13a'
+                    }, 'detail': {'href': '/api/cohire/collections/adef3a43b13a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/adef3a43b13a/reports'
+                    }, 'creator': {'href': '/api/tom_scantlebury'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/adef3a43b13a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'b0dcca12afcf', 'id': 1680473, 'space_type': 'custom', 'name': 'Externally Shared Reports', 'description': 'Reports to be shared externally', 'state': 'active', 'restricted': True, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/b0dcca12afcf'
+                    }, 'detail': {'href': '/api/cohire/collections/b0dcca12afcf/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/b0dcca12afcf/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/b0dcca12afcf'
+                    }, 'reports': {'href': '/api/cohire/collections/b0dcca12afcf/reports'
+                    }, 'creator': {'href': '/api/scaling'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/b0dcca12afcf/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/b0dcca12afcf/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/b0dcca12afcf/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '3ff6b038214e', 'id': 5921310, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/3ff6b038214e'
+                    }, 'detail': {'href': '/api/cohire/collections/3ff6b038214e/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/3ff6b038214e/reports'
+                    }, 'creator': {'href': '/api/ben_henley_smith'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/3ff6b038214e/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'beb92ce55f1f', 'id': 5936720, 'space_type': 'custom', 'name': 'New Verticals', 'description': 'Reports on our venture into new verticals - non-tech roles', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/beb92ce55f1f'
+                    }, 'detail': {'href': '/api/cohire/collections/beb92ce55f1f/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/beb92ce55f1f/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/beb92ce55f1f'
+                    }, 'reports': {'href': '/api/cohire/collections/beb92ce55f1f/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/beb92ce55f1f/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/beb92ce55f1f/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/beb92ce55f1f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '74095eb3cb2b', 'id': 1916614, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/74095eb3cb2b'
+                    }, 'detail': {'href': '/api/cohire/collections/74095eb3cb2b/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/74095eb3cb2b/reports'
+                    }, 'creator': {'href': '/api/harry_cheatle'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/74095eb3cb2b/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'c4f24ef4fc59', 'id': 5737994, 'space_type': 'custom', 'name': 'Marketing', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/c4f24ef4fc59'
+                    }, 'detail': {'href': '/api/cohire/collections/c4f24ef4fc59/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/c4f24ef4fc59/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/c4f24ef4fc59'
+                    }, 'reports': {'href': '/api/cohire/collections/c4f24ef4fc59/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/c4f24ef4fc59/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/c4f24ef4fc59/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/c4f24ef4fc59/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '5a1eb415d79a', 'id': 6090151, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/5a1eb415d79a'
+                    }, 'detail': {'href': '/api/cohire/collections/5a1eb415d79a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/5a1eb415d79a/reports'
+                    }, 'creator': {'href': '/api/astam'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/5a1eb415d79a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '7f1b817f4423', 'id': 5552782, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/7f1b817f4423'
+                    }, 'detail': {'href': '/api/cohire/collections/7f1b817f4423/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/7f1b817f4423/reports'
+                    }, 'creator': {'href': '/api/patrickcharles'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/7f1b817f4423/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '27fd354ea6b5', 'id': 5711975, 'space_type': 'custom', 'name': 'UI/UX', 'description': 'For User Research & UI/UX related reports (eg. participants for user research).', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/27fd354ea6b5'
+                    }, 'detail': {'href': '/api/cohire/collections/27fd354ea6b5/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/27fd354ea6b5/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/27fd354ea6b5'
+                    }, 'reports': {'href': '/api/cohire/collections/27fd354ea6b5/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/27fd354ea6b5/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/27fd354ea6b5/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/27fd354ea6b5/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'e6d7f6c1ccc1', 'id': 6014228, 'space_type': 'custom', 'name': 'MQLs', 'description': 'Reports for MQL project', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/e6d7f6c1ccc1'
+                    }, 'detail': {'href': '/api/cohire/collections/e6d7f6c1ccc1/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/e6d7f6c1ccc1/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/e6d7f6c1ccc1'
+                    }, 'reports': {'href': '/api/cohire/collections/e6d7f6c1ccc1/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/e6d7f6c1ccc1/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/e6d7f6c1ccc1/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/e6d7f6c1ccc1/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '30692164e1f7', 'id': 5738006, 'space_type': 'custom', 'name': 'Customer Success', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/30692164e1f7'
+                    }, 'detail': {'href': '/api/cohire/collections/30692164e1f7/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/30692164e1f7/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/30692164e1f7'
+                    }, 'reports': {'href': '/api/cohire/collections/30692164e1f7/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/30692164e1f7/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/30692164e1f7/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/30692164e1f7/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '3d26cf996fa9', 'id': 1655117, 'space_type': 'custom', 'name': 'Archive', 'description': "Old reports that are no longer needed/haven't been run in years", 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/3d26cf996fa9'
+                    }, 'detail': {'href': '/api/cohire/collections/3d26cf996fa9/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/3d26cf996fa9/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/3d26cf996fa9'
+                    }, 'reports': {'href': '/api/cohire/collections/3d26cf996fa9/reports'
+                    }, 'creator': {'href': '/api/scaling'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/3d26cf996fa9/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/3d26cf996fa9/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/3d26cf996fa9/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'a7c11e1736a9', 'id': 1968595, 'space_type': 'custom', 'name': "Elma's Resources", 'description': "Resources for Elma's learning", 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/a7c11e1736a9'
+                    }, 'detail': {'href': '/api/cohire/collections/a7c11e1736a9/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/a7c11e1736a9/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/a7c11e1736a9'
+                    }, 'reports': {'href': '/api/cohire/collections/a7c11e1736a9/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/a7c11e1736a9/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/a7c11e1736a9/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/a7c11e1736a9/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '42c3e49f0510', 'id': 1913649, 'space_type': 'custom', 'name': 'Insights Library', 'description': 'Reports for the cord insights library', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/42c3e49f0510'
+                    }, 'detail': {'href': '/api/cohire/collections/42c3e49f0510/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/42c3e49f0510/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/42c3e49f0510'
+                    }, 'reports': {'href': '/api/cohire/collections/42c3e49f0510/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/42c3e49f0510/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/42c3e49f0510/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/42c3e49f0510/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'd706d938d732', 'id': 6110969, 'space_type': 'custom', 'name': 'PositionOps (Team AP)', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/d706d938d732'
+                    }, 'detail': {'href': '/api/cohire/collections/d706d938d732/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/d706d938d732/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/d706d938d732'
+                    }, 'reports': {'href': '/api/cohire/collections/d706d938d732/reports'
+                    }, 'creator': {'href': '/api/scaling'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/d706d938d732/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/d706d938d732/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/d706d938d732/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'e1c855a563e9', 'id': 5738010, 'space_type': 'custom', 'name': 'Engineer Growth', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/e1c855a563e9'
+                    }, 'detail': {'href': '/api/cohire/collections/e1c855a563e9/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/e1c855a563e9/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/e1c855a563e9'
+                    }, 'reports': {'href': '/api/cohire/collections/e1c855a563e9/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/e1c855a563e9/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/e1c855a563e9/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/e1c855a563e9/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '266abca025e1', 'id': 5755952, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/266abca025e1'
+                    }, 'detail': {'href': '/api/cohire/collections/266abca025e1/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/266abca025e1/reports'
+                    }, 'creator': {'href': '/api/rebecca_ace'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/266abca025e1/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'f2c58bc18257', 'id': 207254, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/f2c58bc18257'
+                    }, 'detail': {'href': '/api/cohire/collections/f2c58bc18257/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/f2c58bc18257/reports'
+                    }, 'creator': {'href': '/api/davidyong'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/f2c58bc18257/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '5b74c7a46f1f', 'id': 5738013, 'space_type': 'custom', 'name': 'New Pricing', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/5b74c7a46f1f'
+                    }, 'detail': {'href': '/api/cohire/collections/5b74c7a46f1f/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/5b74c7a46f1f/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/5b74c7a46f1f'
+                    }, 'reports': {'href': '/api/cohire/collections/5b74c7a46f1f/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/5b74c7a46f1f/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/5b74c7a46f1f/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/5b74c7a46f1f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'bf404624a40c', 'id': 1682764, 'space_type': 'custom', 'name': "Becky's Things", 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/bf404624a40c'
+                    }, 'detail': {'href': '/api/cohire/collections/bf404624a40c/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/bf404624a40c/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/bf404624a40c'
+                    }, 'reports': {'href': '/api/cohire/collections/bf404624a40c/reports'
+                    }, 'creator': {'href': '/api/scaling'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/bf404624a40c/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/bf404624a40c/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/bf404624a40c/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '218bde47197d', 'id': 5603884, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/218bde47197d'
+                    }, 'detail': {'href': '/api/cohire/collections/218bde47197d/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/218bde47197d/reports'
+                    }, 'creator': {'href': '/api/bart_bilski'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/218bde47197d/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'b4bbffe1657b', 'id': 5511982, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/b4bbffe1657b'
+                    }, 'detail': {'href': '/api/cohire/collections/b4bbffe1657b/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/b4bbffe1657b/reports'
+                    }, 'creator': {'href': '/api/scottfo'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/b4bbffe1657b/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '508fc63c8600', 'id': 1380284, 'space_type': 'custom', 'name': 'ARCHIVE - CG & CS', 'description': 'Archived company and listing reports - This collection is no longer in use.', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/508fc63c8600'
+                    }, 'detail': {'href': '/api/cohire/collections/508fc63c8600/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/508fc63c8600/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/508fc63c8600'
+                    }, 'reports': {'href': '/api/cohire/collections/508fc63c8600/reports'
+                    }, 'creator': {'href': '/api/davidyong'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/508fc63c8600/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/508fc63c8600/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/508fc63c8600/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '69b93baf7b67', 'id': 2007647, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/69b93baf7b67'
+                    }, 'detail': {'href': '/api/cohire/collections/69b93baf7b67/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/69b93baf7b67/reports'
+                    }, 'creator': {'href': '/api/rrafferty'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/69b93baf7b67/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'd13404ccb880', 'id': 5737944, 'space_type': 'custom', 'name': 'Sales', 'description': 'Sales-related reports', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/d13404ccb880'
+                    }, 'detail': {'href': '/api/cohire/collections/d13404ccb880/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/d13404ccb880/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/d13404ccb880'
+                    }, 'reports': {'href': '/api/cohire/collections/d13404ccb880/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/d13404ccb880/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/d13404ccb880/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/d13404ccb880/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '3b2b84a204b8', 'id': 5449135, 'space_type': 'custom', 'name': 'Feature Performance', 'description': 'Reports built for measuring feature performance', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/3b2b84a204b8'
+                    }, 'detail': {'href': '/api/cohire/collections/3b2b84a204b8/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/3b2b84a204b8/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/3b2b84a204b8'
+                    }, 'reports': {'href': '/api/cohire/collections/3b2b84a204b8/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/3b2b84a204b8/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/3b2b84a204b8/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/3b2b84a204b8/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '1c62614b5997', 'id': 5797238, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/1c62614b5997'
+                    }, 'detail': {'href': '/api/cohire/collections/1c62614b5997/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/1c62614b5997/reports'
+                    }, 'creator': {'href': '/api/cord_marketing'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/1c62614b5997/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '63080eab4808', 'id': 1892504, 'space_type': 'custom', 'name': 'Trust & Safety', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/63080eab4808'
+                    }, 'detail': {'href': '/api/cohire/collections/63080eab4808/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/63080eab4808/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/63080eab4808'
+                    }, 'reports': {'href': '/api/cohire/collections/63080eab4808/reports'
+                    }, 'creator': {'href': '/api/davidyong'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/63080eab4808/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/63080eab4808/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/63080eab4808/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '928b24344c36', 'id': 1682781, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/928b24344c36'
+                    }, 'detail': {'href': '/api/cohire/collections/928b24344c36/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/928b24344c36/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/928b24344c36/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'a4ab954777d6', 'id': 5737990, 'space_type': 'custom', 'name': 'Hypothesis Sessions & Sprint Data', 'description': 'Reports for hypothesis sessions & other sprint data', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/a4ab954777d6'
+                    }, 'detail': {'href': '/api/cohire/collections/a4ab954777d6/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/a4ab954777d6/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/a4ab954777d6'
+                    }, 'reports': {'href': '/api/cohire/collections/a4ab954777d6/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/a4ab954777d6/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/a4ab954777d6/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/a4ab954777d6/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '1b3f295a78d5', 'id': 958148, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/1b3f295a78d5'
+                    }, 'detail': {'href': '/api/cohire/collections/1b3f295a78d5/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/1b3f295a78d5/reports'
+                    }, 'creator': {'href': '/api/scaling'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/1b3f295a78d5/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'ac9156cead2f', 'id': 5737975, 'space_type': 'custom', 'name': 'Network Health & Health Metrics', 'description': 'All iterations of Network Health & P2C Network Health reports, plus reports for health metrics in weekly All Hands', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/ac9156cead2f'
+                    }, 'detail': {'href': '/api/cohire/collections/ac9156cead2f/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/ac9156cead2f/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/ac9156cead2f'
+                    }, 'reports': {'href': '/api/cohire/collections/ac9156cead2f/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/ac9156cead2f/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/ac9156cead2f/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/ac9156cead2f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'b6dcc1bc1d38', 'id': 207255, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/b6dcc1bc1d38'
+                    }, 'detail': {'href': '/api/cohire/collections/b6dcc1bc1d38/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/b6dcc1bc1d38/reports'
+                    }, 'creator': {'href': '/api/john_wong'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/b6dcc1bc1d38/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'b88be41f77f1', 'id': 212317, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/b88be41f77f1'
+                    }, 'detail': {'href': '/api/cohire/collections/b88be41f77f1/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/b88be41f77f1/reports'
+                    }, 'creator': {'href': '/api/willedwards'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/b88be41f77f1/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'd43b95eb320c', 'id': 212320, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/d43b95eb320c'
+                    }, 'detail': {'href': '/api/cohire/collections/d43b95eb320c/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/d43b95eb320c/reports'
+                    }, 'creator': {'href': '/api/benhenleysmith'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/d43b95eb320c/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'e4c99c29211c', 'id': 246311, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/e4c99c29211c'
+                    }, 'detail': {'href': '/api/cohire/collections/e4c99c29211c/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/e4c99c29211c/reports'
+                    }, 'creator': {'href': '/api/thenleysmith'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/e4c99c29211c/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '610dbea0db56', 'id': 268325, 'space_type': 'custom', 'name': 'ARCHIVE - Key Platform Data', 'description': 'This collection is no longer in use', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/610dbea0db56'
+                    }, 'detail': {'href': '/api/cohire/collections/610dbea0db56/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/610dbea0db56/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/610dbea0db56'
+                    }, 'reports': {'href': '/api/cohire/collections/610dbea0db56/reports'
+                    }, 'creator': {'href': '/api/thenleysmith'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/610dbea0db56/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/610dbea0db56/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/610dbea0db56/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '306d02a49dc5', 'id': 271057, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/306d02a49dc5'
+                    }, 'detail': {'href': '/api/cohire/collections/306d02a49dc5/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/306d02a49dc5/reports'
+                    }, 'creator': {'href': '/api/shearme'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/306d02a49dc5/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '961833e69087', 'id': 307253, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/961833e69087'
+                    }, 'detail': {'href': '/api/cohire/collections/961833e69087/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/961833e69087/reports'
+                    }, 'creator': {'href': '/api/lenka'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/961833e69087/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'e5f0f9a80e50', 'id': 649468, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/e5f0f9a80e50'
+                    }, 'detail': {'href': '/api/cohire/collections/e5f0f9a80e50/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/e5f0f9a80e50/reports'
+                    }, 'creator': {'href': '/api/shminga'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/e5f0f9a80e50/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '602544b4752d', 'id': 712248, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/602544b4752d'
+                    }, 'detail': {'href': '/api/cohire/collections/602544b4752d/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/602544b4752d/reports'
+                    }, 'creator': {'href': '/api/edlawrencejones'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/602544b4752d/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'a3ea0c70834a', 'id': 821459, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/a3ea0c70834a'
+                    }, 'detail': {'href': '/api/cohire/collections/a3ea0c70834a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/a3ea0c70834a/reports'
+                    }, 'creator': {'href': '/api/ivaylo_stefanov'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/a3ea0c70834a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '502a08f2c1bf', 'id': 823691, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/502a08f2c1bf'
+                    }, 'detail': {'href': '/api/cohire/collections/502a08f2c1bf/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/502a08f2c1bf/reports'
+                    }, 'creator': {'href': '/api/billy97'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/502a08f2c1bf/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '9af2e3323213', 'id': 830969, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/9af2e3323213'
+                    }, 'detail': {'href': '/api/cohire/collections/9af2e3323213/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/9af2e3323213/reports'
+                    }, 'creator': {'href': '/api/wsoulsby'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/9af2e3323213/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'cf3b8bfa3c65', 'id': 895772, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/cf3b8bfa3c65'
+                    }, 'detail': {'href': '/api/cohire/collections/cf3b8bfa3c65/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/cf3b8bfa3c65/reports'
+                    }, 'creator': {'href': '/api/rtapps'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/cf3b8bfa3c65/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'd32191ffee0f', 'id': 925767, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/d32191ffee0f'
+                    }, 'detail': {'href': '/api/cohire/collections/d32191ffee0f/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/d32191ffee0f/reports'
+                    }, 'creator': {'href': '/api/francohire'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/d32191ffee0f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '2a88c1a95cb7', 'id': 951126, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/2a88c1a95cb7'
+                    }, 'detail': {'href': '/api/cohire/collections/2a88c1a95cb7/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/2a88c1a95cb7/reports'
+                    }, 'creator': {'href': '/api/beckyh'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/2a88c1a95cb7/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '58640c28c38a', 'id': 1119372, 'space_type': 'custom', 'name': 'ARCHIVE - People', 'description': 'Archived people-related data. This collection is no longer in use', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/58640c28c38a'
+                    }, 'detail': {'href': '/api/cohire/collections/58640c28c38a/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/58640c28c38a/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/58640c28c38a'
+                    }, 'reports': {'href': '/api/cohire/collections/58640c28c38a/reports'
+                    }, 'creator': {'href': '/api/davidyong'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/58640c28c38a/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/58640c28c38a/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/58640c28c38a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '274dc2bbcd59', 'id': 1248508, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/274dc2bbcd59'
+                    }, 'detail': {'href': '/api/cohire/collections/274dc2bbcd59/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/274dc2bbcd59/reports'
+                    }, 'creator': {'href': '/api/connelallison'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/274dc2bbcd59/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'f619311c0b74', 'id': 1359183, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/f619311c0b74'
+                    }, 'detail': {'href': '/api/cohire/collections/f619311c0b74/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/f619311c0b74/reports'
+                    }, 'creator': {'href': '/api/alexmo'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/f619311c0b74/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '3e05beef5e5d', 'id': 1556750, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/3e05beef5e5d'
+                    }, 'detail': {'href': '/api/cohire/collections/3e05beef5e5d/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/3e05beef5e5d/reports'
+                    }, 'creator': {'href': '/api/angus_cord'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/3e05beef5e5d/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '72d032a914e1', 'id': 1659814, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/72d032a914e1'
+                    }, 'detail': {'href': '/api/cohire/collections/72d032a914e1/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/72d032a914e1/reports'
+                    }, 'creator': {'href': '/api/amibush'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/72d032a914e1/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '31b5eefcb97c', 'id': 1667324, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/31b5eefcb97c'
+                    }, 'detail': {'href': '/api/cohire/collections/31b5eefcb97c/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/31b5eefcb97c/reports'
+                    }, 'creator': {'href': '/api/joegray'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/31b5eefcb97c/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'b24bccd6212b', 'id': 1690231, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/b24bccd6212b'
+                    }, 'detail': {'href': '/api/cohire/collections/b24bccd6212b/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/b24bccd6212b/reports'
+                    }, 'creator': {'href': '/api/dawidbudaszewski'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/b24bccd6212b/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '64022c7ee908', 'id': 1744343, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/64022c7ee908'
+                    }, 'detail': {'href': '/api/cohire/collections/64022c7ee908/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/64022c7ee908/reports'
+                    }, 'creator': {'href': '/api/danniangel'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/64022c7ee908/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'a802ccbf89a6', 'id': 1940438, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/a802ccbf89a6'
+                    }, 'detail': {'href': '/api/cohire/collections/a802ccbf89a6/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/a802ccbf89a6/reports'
+                    }, 'creator': {'href': '/api/vinuj'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/a802ccbf89a6/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '40de0baceaa4', 'id': 1812208, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/40de0baceaa4'
+                    }, 'detail': {'href': '/api/cohire/collections/40de0baceaa4/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/40de0baceaa4/reports'
+                    }, 'creator': {'href': '/api/desireediaz'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/40de0baceaa4/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '93bd096686ae', 'id': 1824065, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/93bd096686ae'
+                    }, 'detail': {'href': '/api/cohire/collections/93bd096686ae/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/93bd096686ae/reports'
+                    }, 'creator': {'href': '/api/annacowling'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/93bd096686ae/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '3f8987db9400', 'id': 1839249, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/3f8987db9400'
+                    }, 'detail': {'href': '/api/cohire/collections/3f8987db9400/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/3f8987db9400/reports'
+                    }, 'creator': {'href': '/api/emily_bird'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/3f8987db9400/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'd429eabfb6ac', 'id': 1842056, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/d429eabfb6ac'
+                    }, 'detail': {'href': '/api/cohire/collections/d429eabfb6ac/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/d429eabfb6ac/reports'
+                    }, 'creator': {'href': '/api/micaelaribeiro'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/d429eabfb6ac/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '9862630616e1', 'id': 1846853, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/9862630616e1'
+                    }, 'detail': {'href': '/api/cohire/collections/9862630616e1/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/9862630616e1/reports'
+                    }, 'creator': {'href': '/api/vikimc'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/9862630616e1/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '372494c86a0e', 'id': 1904533, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/372494c86a0e'
+                    }, 'detail': {'href': '/api/cohire/collections/372494c86a0e/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/372494c86a0e/reports'
+                    }, 'creator': {'href': '/api/hasan_cord'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/372494c86a0e/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'b8c5260f55f5', 'id': 1916617, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/b8c5260f55f5'
+                    }, 'detail': {'href': '/api/cohire/collections/b8c5260f55f5/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/b8c5260f55f5/reports'
+                    }, 'creator': {'href': '/api/ines_fenjiro'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/b8c5260f55f5/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '11cbae006e37', 'id': 1951089, 'space_type': 'custom', 'name': 'Defensive Data', 'description': 'Defensive data proactively catches problems as they arise', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/11cbae006e37'
+                    }, 'detail': {'href': '/api/cohire/collections/11cbae006e37/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/11cbae006e37/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/11cbae006e37'
+                    }, 'reports': {'href': '/api/cohire/collections/11cbae006e37/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/11cbae006e37/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/11cbae006e37/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/11cbae006e37/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '662b71465050', 'id': 2007757, 'space_type': 'custom', 'name': "Rianne's Collection", 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/662b71465050'
+                    }, 'detail': {'href': '/api/cohire/collections/662b71465050/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/662b71465050/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/662b71465050'
+                    }, 'reports': {'href': '/api/cohire/collections/662b71465050/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/662b71465050/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/662b71465050/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/662b71465050/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'a9667e6b9eb7', 'id': 2011953, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/a9667e6b9eb7'
+                    }, 'detail': {'href': '/api/cohire/collections/a9667e6b9eb7/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/a9667e6b9eb7/reports'
+                    }, 'creator': {'href': '/api/mattbifulco'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/a9667e6b9eb7/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'caa0a98f8fbc', 'id': 1576987, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/caa0a98f8fbc'
+                    }, 'detail': {'href': '/api/cohire/collections/caa0a98f8fbc/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/caa0a98f8fbc/reports'
+                    }, 'creator': {'href': '/api/steve_alex'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/caa0a98f8fbc/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'd797a60d6e14', 'id': 1657829, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/d797a60d6e14'
+                    }, 'detail': {'href': '/api/cohire/collections/d797a60d6e14/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/d797a60d6e14/reports'
+                    }, 'creator': {'href': '/api/bburnell'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/d797a60d6e14/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '15e31d963b8a', 'id': 1769171, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/15e31d963b8a'
+                    }, 'detail': {'href': '/api/cohire/collections/15e31d963b8a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/15e31d963b8a/reports'
+                    }, 'creator': {'href': '/api/ellenatcord'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/15e31d963b8a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '11a65a18e4c6', 'id': 1789723, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/11a65a18e4c6'
+                    }, 'detail': {'href': '/api/cohire/collections/11a65a18e4c6/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/11a65a18e4c6/reports'
+                    }, 'creator': {'href': '/api/camillecord'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/11a65a18e4c6/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '3c74d85f67a2', 'id': 922579, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/3c74d85f67a2'
+                    }, 'detail': {'href': '/api/cohire/collections/3c74d85f67a2/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/3c74d85f67a2/reports'
+                    }, 'creator': {'href': '/api/alexmorris'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/3c74d85f67a2/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '9ae61c11f753', 'id': 1824258, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/9ae61c11f753'
+                    }, 'detail': {'href': '/api/cohire/collections/9ae61c11f753/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/9ae61c11f753/reports'
+                    }, 'creator': {'href': '/api/dan_mcevoy'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/9ae61c11f753/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'dfec0e83dde4', 'id': 1816612, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/dfec0e83dde4'
+                    }, 'detail': {'href': '/api/cohire/collections/dfec0e83dde4/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/dfec0e83dde4/reports'
+                    }, 'creator': {'href': '/api/jjyoon'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/dfec0e83dde4/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '2a246a3e089d', 'id': 1869554, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/2a246a3e089d'
+                    }, 'detail': {'href': '/api/cohire/collections/2a246a3e089d/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/2a246a3e089d/reports'
+                    }, 'creator': {'href': '/api/jessiejc23'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/2a246a3e089d/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'fb0c29f69ca8', 'id': 1956930, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/fb0c29f69ca8'
+                    }, 'detail': {'href': '/api/cohire/collections/fb0c29f69ca8/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/fb0c29f69ca8/reports'
+                    }, 'creator': {'href': '/api/omarcord'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/fb0c29f69ca8/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'bd6ddb3855dd', 'id': 220039, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/bd6ddb3855dd'
+                    }, 'detail': {'href': '/api/cohire/collections/bd6ddb3855dd/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/bd6ddb3855dd/reports'
+                    }, 'creator': {'href': '/api/tom_woods'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/bd6ddb3855dd/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '46200e1a743a', 'id': 1790013, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/46200e1a743a'
+                    }, 'detail': {'href': '/api/cohire/collections/46200e1a743a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/46200e1a743a/reports'
+                    }, 'creator': {'href': '/api/aniagrzybowska'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/46200e1a743a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'c326002d0036', 'id': 5508664, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/c326002d0036'
+                    }, 'detail': {'href': '/api/cohire/collections/c326002d0036/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/c326002d0036/reports'
+                    }, 'creator': {'href': '/api/deletedd51f4033f7b0'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/c326002d0036/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'e5ecea4d9af0', 'id': 5471843, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/e5ecea4d9af0'
+                    }, 'detail': {'href': '/api/cohire/collections/e5ecea4d9af0/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/e5ecea4d9af0/reports'
+                    }, 'creator': {'href': '/api/saskiamiller'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/e5ecea4d9af0/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '5fac48e2f277', 'id': 5505909, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/5fac48e2f277'
+                    }, 'detail': {'href': '/api/cohire/collections/5fac48e2f277/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/5fac48e2f277/reports'
+                    }, 'creator': {'href': '/api/fola_fc'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/5fac48e2f277/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '67c449f6858a', 'id': 5510161, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/67c449f6858a'
+                    }, 'detail': {'href': '/api/cohire/collections/67c449f6858a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/67c449f6858a/reports'
+                    }, 'creator': {'href': '/api/marcostrijker'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/67c449f6858a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '75cc8cfecf9f', 'id': 5516505, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/75cc8cfecf9f'
+                    }, 'detail': {'href': '/api/cohire/collections/75cc8cfecf9f/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/75cc8cfecf9f/reports'
+                    }, 'creator': {'href': '/api/claraburk'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/75cc8cfecf9f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'cfe520ab960a', 'id': 5524224, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/cfe520ab960a'
+                    }, 'detail': {'href': '/api/cohire/collections/cfe520ab960a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/cfe520ab960a/reports'
+                    }, 'creator': {'href': '/api/rekakovacs'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/cfe520ab960a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'f76b4d616e6a', 'id': 5633335, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/f76b4d616e6a'
+                    }, 'detail': {'href': '/api/cohire/collections/f76b4d616e6a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/f76b4d616e6a/reports'
+                    }, 'creator': {'href': '/api/matd'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/f76b4d616e6a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '29055143edab', 'id': 5637514, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/29055143edab'
+                    }, 'detail': {'href': '/api/cohire/collections/29055143edab/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/29055143edab/reports'
+                    }, 'creator': {'href': '/api/ellen_finis'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/29055143edab/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '04eeb0beeeb4', 'id': 5654604, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/04eeb0beeeb4'
+                    }, 'detail': {'href': '/api/cohire/collections/04eeb0beeeb4/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/04eeb0beeeb4/reports'
+                    }, 'creator': {'href': '/api/tina_zhou_hui'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/04eeb0beeeb4/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '7e914fcb9b4c', 'id': 5654634, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/7e914fcb9b4c'
+                    }, 'detail': {'href': '/api/cohire/collections/7e914fcb9b4c/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/7e914fcb9b4c/reports'
+                    }, 'creator': {'href': '/api/andresthor'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/7e914fcb9b4c/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'ce8e3f4b3dbf', 'id': 5657649, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/ce8e3f4b3dbf'
+                    }, 'detail': {'href': '/api/cohire/collections/ce8e3f4b3dbf/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/ce8e3f4b3dbf/reports'
+                    }, 'creator': {'href': '/api/cordgeorgie'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/ce8e3f4b3dbf/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'fd91f2f2db4a', 'id': 5677451, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/fd91f2f2db4a'
+                    }, 'detail': {'href': '/api/cohire/collections/fd91f2f2db4a/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/fd91f2f2db4a/reports'
+                    }, 'creator': {'href': '/api/ray_mark'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/fd91f2f2db4a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '1ee18871dd6d', 'id': 5677622, 'space_type': 'custom', 'name': 'Finance', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/1ee18871dd6d'
+                    }, 'detail': {'href': '/api/cohire/collections/1ee18871dd6d/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/1ee18871dd6d/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/1ee18871dd6d'
+                    }, 'reports': {'href': '/api/cohire/collections/1ee18871dd6d/reports'
+                    }, 'creator': {'href': '/api/davidyong'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/1ee18871dd6d/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/1ee18871dd6d/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/1ee18871dd6d/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '4bd6a95004bc', 'id': 5687417, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/4bd6a95004bc'
+                    }, 'detail': {'href': '/api/cohire/collections/4bd6a95004bc/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/4bd6a95004bc/reports'
+                    }, 'creator': {'href': '/api/rhys_phillips'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/4bd6a95004bc/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '42084b29935f', 'id': 5723598, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/42084b29935f'
+                    }, 'detail': {'href': '/api/cohire/collections/42084b29935f/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/42084b29935f/reports'
+                    }, 'creator': {'href': '/api/alexvancea'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/42084b29935f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '08ecc3371c6c', 'id': 5723673, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/08ecc3371c6c'
+                    }, 'detail': {'href': '/api/cohire/collections/08ecc3371c6c/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/08ecc3371c6c/reports'
+                    }, 'creator': {'href': '/api/monika_szafranek'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/08ecc3371c6c/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '99847444fbe2', 'id': 5729529, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/99847444fbe2'
+                    }, 'detail': {'href': '/api/cohire/collections/99847444fbe2/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/99847444fbe2/reports'
+                    }, 'creator': {'href': '/api/marta_lowicka'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/99847444fbe2/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '796915e70482', 'id': 5737966, 'space_type': 'custom', 'name': 'PMF', 'description': 'All people & company PMF reports', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/796915e70482'
+                    }, 'detail': {'href': '/api/cohire/collections/796915e70482/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/796915e70482/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/796915e70482'
+                    }, 'reports': {'href': '/api/cohire/collections/796915e70482/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/796915e70482/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/796915e70482/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/796915e70482/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'daa629d97e9a', 'id': 5737985, 'space_type': 'custom', 'name': 'OKRs', 'description': 'All OKR-related data', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/daa629d97e9a'
+                    }, 'detail': {'href': '/api/cohire/collections/daa629d97e9a/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/daa629d97e9a/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/daa629d97e9a'
+                    }, 'reports': {'href': '/api/cohire/collections/daa629d97e9a/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/daa629d97e9a/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/daa629d97e9a/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/daa629d97e9a/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'a879bccb1462', 'id': 5738001, 'space_type': 'custom', 'name': 'Hires', 'description': '', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/a879bccb1462'
+                    }, 'detail': {'href': '/api/cohire/collections/a879bccb1462/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/a879bccb1462/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/a879bccb1462'
+                    }, 'reports': {'href': '/api/cohire/collections/a879bccb1462/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/a879bccb1462/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/a879bccb1462/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/a879bccb1462/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': 'c2563db16ddb', 'id': 5738021, 'space_type': 'custom', 'name': 'Conversations & Messaging', 'description': 'Conversation and messaging related data', 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/c2563db16ddb'
+                    }, 'detail': {'href': '/api/cohire/collections/c2563db16ddb/detail'
+                    }, 'space_report_pins': {'href': '/api/cohire/collections/c2563db16ddb/report_pins'
+                    }, 'web': {'href': '/cohire/spaces/c2563db16ddb'
+                    }, 'reports': {'href': '/api/cohire/collections/c2563db16ddb/reports'
+                    }, 'creator': {'href': '/api/becky_havard'
+                    }, 'space_memberships': {'href': '/api/cohire/collections/c2563db16ddb/memberships'
+                    }, 'preview_space_memberships': {'href': '/api/cohire/collections/c2563db16ddb/memberships/preview'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/c2563db16ddb/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {'token': '9cace79cf14f', 'id': 5777889, 'space_type': 'private', 'name': 'Personal', 'description': None, 'state': 'active', 'restricted': False, 'free_default': False, 'viewable?': False, '_links': {'self': {'href': '/api/cohire/collections/9cace79cf14f'
+                    }, 'detail': {'href': '/api/cohire/collections/9cace79cf14f/detail'
+                    }, 'reports': {'href': '/api/cohire/collections/9cace79cf14f/reports'
+                    }, 'creator': {'href': '/api/judy_borkowska'
+                    }, 'search_space_permissions': {'href': '/api/cohire/collections/9cace79cf14f/permissions/search'
+                    }
+                }, '_forms': {'create': {'method': 'post', 'action': '/api/cohire/collections', 'input': {'space': {'space_type': {'type': 'select', 'options': ['private', 'community', 'custom'
+                                    ], 'value': 'custom'
+                                }, 'name': {'type': 'text'
+                                }, 'description': {'type': 'text'
+                                }, 'default_access_level': {'type': 'select', 'options': ['view', 'edit', 'none'
+                                    ], 'value': 'none'
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
