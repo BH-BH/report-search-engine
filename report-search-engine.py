@@ -41,4 +41,6 @@ for n_row, row in df_search.reset_index().iterrows():
         st.caption(f"{row['Collection'].strip()} - {row['Type'].strip()} ")
         st.markdown(f"**{row['Title'].strip()}**")
         st.markdown(f"*{row['Description'].strip()}*")
+        st.caption(f"**Last Edited:** {row['Last Edited'].strip()}")
+        st.caption(f"**Last Successful Run:** {row['Last Successful Run'].strip()}")
         st.markdown(f"**{row['Link']}**")
